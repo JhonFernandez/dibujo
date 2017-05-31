@@ -1,0 +1,84 @@
+  0
+LAYERSTATEDICTIONARY
+  0
+LAYERSTATE
+  1
+Layer de dibujo tecnico
+ 91
+2047
+301
+Eje , fantasma, coulta, perfil visible
+290
+0
+302
+Eje
+  8
+Perfil visible
+ 90
+8
+ 62
+7
+370
+50
+  6
+Continuous
+  2
+Color_7
+440
+0
+  8
+Oculta
+ 90
+8
+ 62
+7
+370
+35
+  6
+DASHED2
+  2
+Color_7
+440
+0
+  8
+Fantasma
+ 90
+8
+ 62
+5
+370
+9
+  6
+PHANTOM2
+  2
+Color_5
+440
+0
+  8
+Eje
+ 90
+8
+ 62
+3
+370
+18
+  6
+DASHDOT2
+  2
+Color_3
+440
+0
+  8
+0
+ 90
+8
+ 62
+7
+370
+-3
+  6
+Continuous
+  2
+Color_7
+440
+0
